@@ -1,0 +1,26 @@
+{
+    "agents": [
+        "junie",
+        "claude_code",
+        "gemini",
+        "codex"
+    ],
+    "guidelines": true,
+    "herd_mcp": false,
+    "mcp": true,
+    "nightwatch_mcp": false,
+    "packages": [
+        "laravel/fortify",
+        "filament/filament",
+        "spatie/laravel-ray"
+    ],
+    "sail": false,
+    "skills": [
+        "laravel-best-practices",
+        "fluxui-development",
+        "livewire-development",
+        "pest-testing",
+        "fortify-development",
+        "debugging-output-and-previewing-html-using-ray"
+    ]
+}

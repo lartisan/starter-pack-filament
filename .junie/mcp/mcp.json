@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/cristianiosif/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/cristianiosif/Sites/Personal/starter-pack-filament/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
